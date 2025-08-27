@@ -1,3 +1,3 @@
 # white-dox
-this is my firs demo
+this is my firs git repository
 Author -sanu maurya
