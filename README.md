@@ -1,4 +1,4 @@
 # white-dox
-this is my firs git repository
+this is my first git repository
 <br>
 Author -sanu maurya
