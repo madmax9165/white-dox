@@ -1,3 +1,3 @@
 # white-dox
 this is my firs demo
-author -sanu maurya
+Author -sanu maurya
